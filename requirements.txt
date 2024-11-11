@@ -6,3 +6,6 @@ user-agents
 swifter
 dask[complete]
 jupyter
+scipy
+scikit-learn
+joblib
